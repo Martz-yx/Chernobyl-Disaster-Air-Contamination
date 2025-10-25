@@ -1,2 +1,2 @@
-# chernobyl-weather-contamination
+# The Chernobyl Disaster Air Contamination in neighbouring countries
 This project investigates the critical role of immediate and short-term weather conditions following the April 1986 Chernobyl disaster. We focus specifically on how dynamic atmospheric factors—primarily precipitation (radioactive rain)—dictated the initial and highly uneven distribution its subsequent fallout on nearby and regional cities.
