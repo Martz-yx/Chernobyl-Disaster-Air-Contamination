@@ -1,4 +1,5 @@
-# The Chernobyl Disaster Report 2025-10-17 11:29
+# The Chernobyl Disaster Disaster 2025-10-17 11:29
+<img width="2083" height="1275" alt="image" src="https://github.com/user-attachments/assets/2d0aa3fe-dee4-4be6-b84b-7ff21d316928" />
 
 This folder defines all source code for the 'The Chernobyl Disaster Report' pipeline:
 
