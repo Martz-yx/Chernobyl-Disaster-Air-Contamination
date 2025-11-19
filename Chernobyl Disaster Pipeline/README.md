@@ -1,22 +1,8 @@
 # The Chernobyl Disaster Disaster 2025-10-17 11:29
-<img width="2083" height="1275" alt="image" src="https://github.com/user-attachments/assets/2d0aa3fe-dee4-4be6-b84b-7ff21d316928" />
+<img width="1086" height="715" alt="image" src="https://github.com/user-attachments/assets/986247bd-8805-4f83-8920-1491b3cdb044" />
 
 This folder defines all source code for the 'The Chernobyl Disaster Report' pipeline:
 
 - `explorations`: Ad-hoc notebooks used to explore the data processed by this pipeline.
 - `transformations`: All dataset definitions and transformations.
 - `utilities`: Utility functions and Python modules used in this pipeline.
-
-## Getting Started
-
-To get started, go to the `transformations` folder -- most of the relevant source code lives there:
-
-* By convention, every dataset under `transformations` is in a separate file.
-* Take a look at the sample under "sample_trips_oct_17_1129.py" to get familiar with the syntax.
-  Read more about the syntax at https://docs.databricks.com/dlt/python-ref.html.
-* Use `Run file` to run and preview a single transformation.
-* Use `Run pipeline` to run _all_ transformations in the entire pipeline.
-* Use `+ Add` in the file browser to add a new data set definition.
-* Use `Schedule` to run the pipeline on a schedule!
-
-For more tutorials and reference material, see https://docs.databricks.com/dlt.
