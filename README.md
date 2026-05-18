@@ -1,4 +1,6 @@
-<img width="50" height="50" alt="Nuclear_symbol svg" src="https://github.com/user-attachments/assets/d1dc4aee-67c6-456a-b789-0f4d0e0fd249" />
+<p align="center">
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ca88ea89-3265-4ab8-85a6-b9b8ce43bb39" alt="Radiation symbol" />
+</p>
 
 # The Chernobyl Disaster Air Contamination in neighbouring countries
 
