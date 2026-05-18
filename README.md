@@ -1,3 +1,5 @@
+<img width="50" height="50" alt="Nuclear_symbol svg" src="https://github.com/user-attachments/assets/d1dc4aee-67c6-456a-b789-0f4d0e0fd249" />
+
 # The Chernobyl Disaster Air Contamination in neighbouring countries
 
 The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 nuclear reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR. It is considered the worst nuclear disaster in history and is one of only two nuclear energy disasters rated at seven - the maximum severity - on the International Nuclear Event Scale, the other being the 2011 Fukushima Daiichi nuclear disaster in Japan.
